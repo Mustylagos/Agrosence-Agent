@@ -1,0 +1,44 @@
+{
+  "alerts": {
+    "Kano": {
+      "condition": "Partly Cloudy",
+      "temperature": "32°C",
+      "humidity": "45%",
+      "alert": "Good farming conditions. Moderate temperatures expected this week.",
+      "forecast": "Clear skies for next 3 days, ideal for harvesting.",
+      "rainProbability": "10%"
+    },
+    "Kaduna": {
+      "condition": "Sunny",
+      "temperature": "30°C",
+      "humidity": "50%",
+      "alert": "Dry conditions continue. Ensure adequate irrigation for crops.",
+      "forecast": "No rain expected. Plan watering schedule accordingly.",
+      "rainProbability": "5%"
+    },
+    "Katsina": {
+      "condition": "Hot and Dry",
+      "temperature": "35°C",
+      "humidity": "35%",
+      "alert": "Very hot conditions. Protect crops from heat stress.",
+      "forecast": "High temperatures persist. Evening irrigation recommended.",
+      "rainProbability": "8%"
+    },
+    "Sokoto": {
+      "condition": "Clear",
+      "temperature": "34°C",
+      "humidity": "38%",
+      "alert": "Dry harmattan winds. Cover stored produce to prevent dust damage.",
+      "forecast": "Harmattan continues. Protect seedlings from harsh winds.",
+      "rainProbability": "3%"
+    },
+    "Kebbi": {
+      "condition": "Partly Cloudy",
+      "temperature": "31°C",
+      "humidity": "48%",
+      "alert": "Favorable conditions for rice cultivation. Monitor water levels.",
+      "forecast": "Stable weather. Good time for planting preparation.",
+      "rainProbability": "12%"
+    }
+  }
+}
